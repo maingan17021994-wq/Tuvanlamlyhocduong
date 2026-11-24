@@ -15,5 +15,5 @@ window.CHAM_CONFIG = {
   },
 
   // Email của quản trị viên chính
-  ownerEmail: "lehieu74mnd@gmail.com",
+  ownerEmail: "maingan17021994@gmail.com",
 };
